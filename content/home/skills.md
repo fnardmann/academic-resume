@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: Python
 - description: 100%
-  icon: code
+  icon: brackets-curly
   icon_pack: fab
   name: C++
 - description: 70%
