@@ -21,13 +21,9 @@ feature:
   icon_pack: fab
   name: Python
 - description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  icon: code
+  icon_pack: fab
+  name: C++
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
