@@ -21,6 +21,10 @@ feature:
   icon_pack: fab
   name: Python
 - description: 100%
+  icon: cubes
+  icon_pack: fab
+  name: NumPy
+- description: 100%
   icon: brackets-curly
   icon_pack: fab
   name: C++
