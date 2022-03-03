@@ -17,16 +17,16 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: python
-  icon_pack: fab
+  icon: brands/python-icon
+  icon_pack: custom
   name: Python
 - description: 100%
-  icon: cubes
-  icon_pack: fab
+  icon: brands/numpy-icon
+  icon_pack: custom
   name: NumPy
 - description: 100%
-  icon: cubes
-  icon_pack: fab
+  icon: brands/tensorflow-icon
+  icon_pack: custom
   name: TensorFlow
 - description: 100%
   icon: brackets-curly
