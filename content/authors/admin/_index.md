@@ -67,8 +67,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Felix Nardmann is a software developer at SPIE Cegit working with LiDAR and deep learning. In 2021 he automatically classified power lines using Airborne LiDAR data and Deep Learning. In doing so, a framework was built using Python and Tensorflow that can use the standard [PointNet](https://github.com/charlesq34/pointnet) method as well as more advanced approaches such as [Pointnet++](https://github.com/charlesq34/pointnet2), [PointSIFT](https://github.com/MVIG-SJTU/pointSIFT), [PointConv](https://github.com/DylanWusee/pointconv), [GACNET](https://github.com/wleigithub/GACNet) or [DGCNN](https://github.com/WangYueFt/dgcnn) to classify airborne LiDAR data. For a final prediction on an unknown test data set, accuracies of over $98\,\%$ and $96\,\%$ could be achieved for power lines and poles, respectively.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Especially in the course of his master studies he increasingly worked with machine learning methods like Random Forest or SVM. In the context of remote sensing, the main focus was on pixel- or object-based classification of satellite images using these methods. In this context, dimensionality reduction methods such as PCA were also applied. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my resumé in {{< staticref "uploads/demo_resume.pdf" "newtab" >}}English{{< /staticref >}} or {{< staticref "uploads/demo_resume.pdf" "newtab" >}}German{{< /staticref >}}.
