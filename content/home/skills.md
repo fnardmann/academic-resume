@@ -24,6 +24,10 @@ feature:
   icon: code
   icon_pack: fab
   name: C++
+- description: 70%
+  icon: code-branch
+  icon_pack: fab
+  name: Git
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
