@@ -22,28 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Software Developer (LiDAR)
+    company: SPIE SAG GmbH 
+    company_url: 'https://spie.de/cegit'
+    company_logo: brands/spie-icon
+    location: Wallenhorst
+    date_start: '2021-12-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        * Automated Classification of LiDAR Data with Deep Learning (Python)
+        * Cloud Computing with AWS
+        * Automatic extraction of keypoints from airborne LiDAR data (C++)
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Working Student - Software Developer (LiDAR)
+    company: SPIE SAG GmbH 
+    company_url: 'https://spie.de/cegit'
+    company_logo: brands/spie-icon
+    location: Wallenhorst
+    date_start: '2018-11-01'
+    date_end: '2021-11-30'
+    description: |2-
+        * Processing and analysis of airborne LiDAR data (C++)
+        * Building a 3D visualization component with OpenSceneGraph (C++)
 
 design:
   columns: '2'
