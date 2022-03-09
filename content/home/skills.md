@@ -20,19 +20,19 @@ feature:
   icon: brands/python-icon
   icon_pack: custom
   name: Python
-- description: 100%
+- description: 90%
   icon: brands/numpy-icon
   icon_pack: custom
   name: NumPy
-- description: 100%
+- description: 70%
   icon: brands/tensorflow-icon
   icon_pack: custom
   name: TensorFlow
-- description: 100%
+- description: 80%
   icon: brands/cxx-icon
   icon_pack: custom
   name: C++
-- description: 70%
+- description: 80%
   icon: brands/git-icon
   icon_pack: custom
   name: Git
