@@ -30,11 +30,11 @@ feature:
   name: TensorFlow
 - description: 100%
   icon: brands/cxx-icon
-  icon_pack: fab
+  icon_pack: custom
   name: C++
 - description: 70%
   icon: brands/git-icon
-  icon_pack: fab
+  icon_pack: custom
   name: Git
 
 # Uncomment to use emoji icons.
