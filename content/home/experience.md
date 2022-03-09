@@ -25,7 +25,7 @@ experience:
   - title: Software Developer (LiDAR)
     company: SPIE SAG GmbH 
     company_url: 'https://spie.de/cegit'
-    company_logo: brands/spie-icon
+    company_logo: spie-icon
     location: Wallenhorst
     date_start: '2021-12-01'
     date_end: ''
@@ -37,7 +37,7 @@ experience:
   - title: Working Student - Software Developer (LiDAR)
     company: SPIE SAG GmbH 
     company_url: 'https://spie.de/cegit'
-    company_logo: brands/spie-icon
+    company_logo: spie-icon
     location: Wallenhorst
     date_start: '2018-11-01'
     date_end: '2021-11-30'
