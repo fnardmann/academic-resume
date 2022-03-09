@@ -29,11 +29,11 @@ feature:
   icon_pack: custom
   name: TensorFlow
 - description: 100%
-  icon: brackets-curly
+  icon: brands/cxx-icon
   icon_pack: fab
   name: C++
 - description: 70%
-  icon: code-branch
+  icon: brands/git-icon
   icon_pack: fab
   name: Git
 
