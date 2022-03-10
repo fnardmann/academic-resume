@@ -71,4 +71,4 @@ Felix Nardmann is a software developer at SPIE Cegit working with LiDAR and deep
 
 Especially in the course of his master studies he increasingly worked with machine learning methods like Random Forest or SVM. In the context of remote sensing, the main focus was on pixel- or object-based classification of satellite images using these methods. In this context, dimensionality reduction methods such as PCA were also applied. 
 
-{{< icon name="download" pack="fas" >}} Download my resumé in {{< staticref "uploads/demo_resume.pdf" "newtab" >}}English{{< /staticref >}} or {{< staticref "uploads/demo_resume.pdf" "newtab" >}}German{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my resumé in {{< staticref "uploads/demo_resume.pdf" "newtab" >}}English{{< /staticref >}} or {{< staticref "uploads/demo_resume.pdf" "newtab" >}}German{{< /staticref >}}.
