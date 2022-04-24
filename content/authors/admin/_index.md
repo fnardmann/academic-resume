@@ -19,7 +19,8 @@ bio: My research interests include automatic point cloud analysis, deep learning
 # Interests to show in About widget
 interests:
 - LiDAR
-- Artificial Intelligence
+- Machine Learning
+- Deep Learning
 - Object Detection
 
 # Education to show in About widget
