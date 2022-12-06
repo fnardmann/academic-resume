@@ -33,6 +33,10 @@ feature:
   icon_pack: custom
   name: C++
 - description: 
+  icon: brands/cmake-icon
+  icon_pack: custom
+  name: CMake
+- description: 
   icon: brands/git-icon
   icon_pack: custom
   name: Git
