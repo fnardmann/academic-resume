@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: |2-
         * Automated Classification of LiDAR Data with Deep Learning (Python)
-        * Cloud Computing with AWS
+        * Cloud Computing with AWS and Microsoft Azure
         * Automatic extraction of keypoints from airborne LiDAR data (C++)
         
   - title: Working Student - Software Developer (LiDAR)
