@@ -1,6 +1,6 @@
 ---
 title: Progress Tracker for Interval Running
-summary: Use this little script to create a plot to monitor your progress running intervals
+summary: Generate a plot to monitor your progress running intervals. This creates a boxplot for each interval session and shows them side-by-side to oversee your progress over time.
 tags:
 - Other
 date: "2022-12-28T00:00:00Z"
