@@ -26,3 +26,4 @@ url_video: ""
 
 Technologies used: **C++17** | **CMake** | **VulkanSceneGraph**
 
+Test installation and rendering for further usage of VulkanSceneGraph. After installing on Linux the CMake script can be used to build the project. It is possible to render `.vsgt` files in the standard viewer.
